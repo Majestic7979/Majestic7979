@@ -1,6 +1,14 @@
 ### ⚠️WARNING
 
-Any abuse, harassment, and bullying may be dealt with by means of a police crime report followed by legal action.
+Any abuse, harassment, and bullying may be dealt with by means of a police crime report followed by legal action. The abusive content will also be reported to GitHub and the abuser will be blocked. Harassment and Bullying is a breach of the Terms of Service/Community Guidelines.
+
+Generally, I remain respectful in conversations - this means I do not make personal attacks.
+
+I may make criticisms about applications or code, but in no way intend this as a personal attack against any contributor. I politely request that those reading take it as intended: a critique of the product and not the person making it.
+
+Complaints about software - open source or not, free or not - are totally valid when they cause material losses to the users. Any product, whether it is free or not, when offered to the public, is passive to feedback. Anyone disagreeing with feedback and complaints does not have a licence to breach site rules by maliciously reacting with thumbs down or comments of a harassing nature to content that I post.
+
+Please desist from engaging with my content in a harassing/bullying manner, you absolutely will be blocked and reported. I do not consent to any GitHub user screenshotting/sharing my content in their posts whether they have the intention to take my content directly from my profile or by linking to it. If you are stalking my profile to take content I have posted in the past as a way to make an argument you are breaching my privacy and breaching site rules, please desist now, your breaches will be reported to GitHub.
 
 <!--
 **Majestic7979/Majestic7979** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
