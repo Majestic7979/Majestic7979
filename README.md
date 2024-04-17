@@ -4,7 +4,7 @@ Any abuse, harassment, and bullying may be dealt with by means of a police crime
 
 Generally, I remain respectful in conversations - this means I do not make personal attacks.
 
-I may make criticisms about applications or code, but in no way intend this as a personal attack against any contributor. I politely request that those reading take it as intended: a critique of the product and not the person making it.
+I may make criticisms about applications or code, but in no way intend this as a personal attack against any contributor. I politely request that those reading take it as intended: a critique of the product and not the person making it. It is NEVER acceptable to attack people but Code does not have feelings. The impact of Code on users is relevant, though, and that is why criticising bad code and bad decisions is valid while personal attacks on developers or users is not.
 
 Complaints about software - open source or not, free or not - are totally valid when they cause material losses to the users. Any product, whether it is free or not, when offered to the public, is passive to feedback. Anyone disagreeing with feedback and complaints does not have a licence to breach site rules by maliciously reacting with thumbs down or comments of a harassing nature to content that I post.
 
